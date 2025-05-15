@@ -30,11 +30,13 @@ Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş basit bir "To Do Lis
 - **Görev Silme:** Silmek istediğiniz görevlerin yanında bulunan "Sil" butonunu tıklayarak görevlerinizi silebilirsiniz.
 
 ## Ekran Resimleri
-file:///Users/sedabasaran/Desktop/Ekran%20Resmi%202025-05-15%2023.06.18.png
+![Ekran Resmi 2025-05-15 23 06 18](https://github.com/user-attachments/assets/e07b5700-2816-4ec7-94da-2315e3763566)
 
 
-file:///Users/sedabasaran/Desktop/Ekran%20Resmi%202025-05-15%2023.06.25.png
+![Ekran Resmi 2025-05-15 23 06 25](https://github.com/user-attachments/assets/c46e9fde-4fca-4964-ae6a-e452d684a5c2)
 
 
-file:///Users/sedabasaran/Desktop/Ekran%20Resmi%202025-05-15%2023.06.31.png
+![Ekran Resmi 2025-05-15 23 06 31](https://github.com/user-attachments/assets/18b76c4a-45f9-4ef5-bcb7-f22e1e41f28d)
+
+
 
